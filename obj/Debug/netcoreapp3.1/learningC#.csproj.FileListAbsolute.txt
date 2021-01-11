@@ -1,0 +1,13 @@
+E:\Creativeness Productions\Coding\learningC#\bin\Debug\netcoreapp3.1\learningC#.exe
+E:\Creativeness Productions\Coding\learningC#\bin\Debug\netcoreapp3.1\learningC#.deps.json
+E:\Creativeness Productions\Coding\learningC#\bin\Debug\netcoreapp3.1\learningC#.runtimeconfig.json
+E:\Creativeness Productions\Coding\learningC#\bin\Debug\netcoreapp3.1\learningC#.runtimeconfig.dev.json
+E:\Creativeness Productions\Coding\learningC#\bin\Debug\netcoreapp3.1\learningC#.dll
+E:\Creativeness Productions\Coding\learningC#\bin\Debug\netcoreapp3.1\learningC#.pdb
+E:\Creativeness Productions\Coding\learningC#\obj\Debug\netcoreapp3.1\learningC#.csprojAssemblyReference.cache
+E:\Creativeness Productions\Coding\learningC#\obj\Debug\netcoreapp3.1\learningC#.AssemblyInfoInputs.cache
+E:\Creativeness Productions\Coding\learningC#\obj\Debug\netcoreapp3.1\learningC#.AssemblyInfo.cs
+E:\Creativeness Productions\Coding\learningC#\obj\Debug\netcoreapp3.1\learningC#.csproj.CoreCompileInputs.cache
+E:\Creativeness Productions\Coding\learningC#\obj\Debug\netcoreapp3.1\learningC#.dll
+E:\Creativeness Productions\Coding\learningC#\obj\Debug\netcoreapp3.1\learningC#.pdb
+E:\Creativeness Productions\Coding\learningC#\obj\Debug\netcoreapp3.1\learningC#.genruntimeconfig.cache
